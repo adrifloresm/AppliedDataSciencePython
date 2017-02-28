@@ -9,6 +9,6 @@ Files:
 - Week 3
 - Week 4
 - Assignment 2
-- [Assignment 3]()
+- [Assignment 3](https://github.com/adrifloresm/AppliedDataSciencePython/blob/master/Assignment%2B3.ipynb)
 - Assignment 4
 - Related csv/xls/txt files
