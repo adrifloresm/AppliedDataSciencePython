@@ -3,6 +3,7 @@
 In this Repository you will find my submissions to the [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
 
 Course 1: Introduction to Data Science in Python
+
 Weekly course-explanations on python notebook :
 - [Week 1](https://github.com/adrifloresm/AppliedDataSciencePython/blob/master/Week%201.ipynb)
 - [Week 2](https://github.com/adrifloresm/AppliedDataSciencePython/blob/master/Week%202.ipynb)
